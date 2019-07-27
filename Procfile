@@ -1,0 +1,1 @@
+web: gunicorn mirage.wsgi --log-file -
